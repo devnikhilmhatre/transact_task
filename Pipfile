@@ -12,6 +12,7 @@ yapf = "*"
 pandas = "*"
 xlrd = "*"
 xlsxwriter = "*"
+numpy = "*"
 
 [requires]
 python_version = "3.6"
